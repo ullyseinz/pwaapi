@@ -1,0 +1,24 @@
+{
+"products" : [
+[{"id":1,"name":"Openbill stork","category":"Crimson"},
+{"id":2,"name":"Little brown bat","category":"Green"},
+{"id":3,"name":"Heron, yellow-crowned night","category":"Green"},
+{"id":4,"name":"Kangaroo, western grey","category":"Orange"},
+{"id":5,"name":"Black swan","category":"Red"},
+{"id":6,"name":"Emerald green tree boa","category":"Yellow"},
+{"id":7,"name":"Owl, burrowing","category":"Khaki"},
+{"id":8,"name":"Common raccoon","category":"Pink"},
+{"id":9,"name":"Plover, blacksmith","category":"Turquoise"},
+{"id":10,"name":"Kookaburra, laughing","category":"Blue"},
+{"id":11,"name":"Killer whale","category":"Turquoise"},
+{"id":12,"name":"Thrasher, curve-billed","category":"Crimson"},
+{"id":13,"name":"Comb duck","category":"Orange"},
+{"id":14,"name":"Hyrax","category":"Blue"},
+{"id":15,"name":"Bear, sloth","category":"Orange"},
+{"id":16,"name":"European beaver","category":"Yellow"},
+{"id":17,"name":"Asiatic jackal","category":"Yellow"},
+{"id":18,"name":"Common wombat","category":"Yellow"},
+{"id":19,"name":"Pie, indian tree","category":"Green"},
+{"id":20,"name":"Long-nosed bandicoot","category":"Orange"}]
+]
+}
